@@ -9,7 +9,7 @@ This Bash script allows you to fetch and display the contents of the `robots.txt
 
  [Installation]
   **Clone the repository:**
-   git clone https://github.com/hellowebscc/prowler.git
+   git clone https://github.com/EggS3c/prowler.git
   
  [Usage]
  **http://example.com: The URL to fetch robots.txt from.
