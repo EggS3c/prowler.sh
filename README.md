@@ -19,6 +19,8 @@ This Bash script allows you to fetch and display the contents of the `robots.txt
   [Example]
   sudo ./prowler.sh {ip} 
   sudo ./prowler.sh {ip} CHANGELOG.txt
+  ![image](https://github.com/hellowebscc/prowler.sh/assets/82586952/a44b3ab4-9adc-4946-bd48-57748609d87c)
+
 
 ## Contact
 
