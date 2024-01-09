@@ -1,4 +1,4 @@
-## Prower
+## Prowler
 Welcome to Prowler, a tool for fetching and displaying information from robots.txt.
 
 ![image](https://github.com/EggS3c/prowler.sh/assets/82586952/3c2b9346-6d87-43cf-a966-244b3a806ee5).
@@ -32,11 +32,11 @@ and displays the content of the specified file from the given URL
 
 ## Known Issues
 
-1. **Output Formatting**: In certain cases, the output formatting may not display correctly on terminals with limited color support or specific configurations. We are actively working on improving the compatibility for a broader range of environments.
+1. **Output Formatting**: In certain cases, the output formatting may not display correctly on terminals with limited color support or specific configurations. I am actively working on improving the compatibility for a broader range of environments.
 
-2. **URL Handling**: The script may encounter issues when handling URLs with special characters or unconventional formats. We recommend using URL encoding for such cases until a comprehensive fix is implemented.
+2. **URL Handling**: The script may encounter issues when handling URLs with special characters or unconventional formats. I recommend using URL encoding for such cases until a comprehensive fix is implemented.
 
-3. **Verbose Mode Quirks**: Users might experience unexpected behavior when using the `--verbose` option in specific scenarios. We are investigating reported cases and will address these quirks in future updates.
+3. **Verbose Mode Quirks**: Users might experience unexpected behavior when using the `--verbose` option in specific scenarios. I am investigating reported cases and will address these quirks in future updates.
 
 
 
