@@ -9,8 +9,5 @@ Prowler is a simple Bash script to fetch and display the contents of `robots.txt
 ./prowler http://example.com 
 ./prowler.sh http://example.com [file_path]
 
-
-git clone https://github.com/your-username/prowler.git
-
-
-
+##Options
+-help: Display usage information.
