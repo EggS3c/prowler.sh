@@ -11,6 +11,6 @@ Prowler is a simple Bash script to fetch and display the contents of `robots.txt
 
 
 
-bash
+```bash
 Copy code
 git clone https://github.com/your-username/prowler.gi
